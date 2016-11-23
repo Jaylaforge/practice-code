@@ -6,6 +6,6 @@ app.get('/', function (req, res) {
     res.send('Practice Website!');
 })
 
-app.listen(800, function () {
+app.listen(8000, function () {
     console.log('Practice website up and running on your machine!');
 })
